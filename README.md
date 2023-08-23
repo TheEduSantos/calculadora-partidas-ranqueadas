@@ -1,6 +1,6 @@
 # Calculadora de Partidas Ranqueadas
 
-Esta é uma calculadora simples em JavaScript que determina o nível do seu herói em um jogo de partidas ranqueadas com base na quantidade de vitórias e derrotas que você fornece. O código imprime o resultado no console, indicando o nível do herói e o saldo de vitórias.
+Este é um desafio da Formação Lógica de Programação da DIO, em JavaScript, que determina o nível do seu herói em um jogo de partidas ranqueadas com base na quantidade de vitórias e derrotas que você fornece. O código imprime o resultado no console, indicando o nível do herói e o saldo de vitórias.
 
 ## Como usar
 
@@ -20,7 +20,3 @@ A saída do código será uma mensagem que indica o nível do herói com base no
 =================== Calculadora de Partidas Rankeadas ===================
 O Herói tem um saldo de 112 está no nível Imortal
 ```
-
----
-
-Lembre-se de que esta documentação é apenas um guia inicial. Você pode expandi-la para incluir informações sobre o propósito do script, como configurar o ambiente de execução, explicações mais detalhadas sobre os diferentes níveis de heróis e qualquer outra informação relevante para os usuários que desejam usar ou entender o funcionamento do script.
